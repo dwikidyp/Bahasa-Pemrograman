@@ -1,0 +1,126 @@
+==================================================
+PROGRAM PENGELOLAAN DATA MAHASISWA
+==================================================
+Silakan masukkan data 10 mahasiswa:
+
+Data Mahasiswa ke-1:
+Masukkan nama mahasiswa: Dwiki
+Masukkan nilai mahasiswa (0-100): 72
+
+Data Mahasiswa ke-2:
+Masukkan nama mahasiswa: Basim
+Masukkan nilai mahasiswa (0-100): 100
+
+Data Mahasiswa ke-3:
+Masukkan nama mahasiswa: Prince
+Masukkan nilai mahasiswa (0-100): 85
+
+Data Mahasiswa ke-4:
+Masukkan nama mahasiswa: asep
+Masukkan nilai mahasiswa (0-100): 60
+
+Data Mahasiswa ke-5:
+Masukkan nama mahasiswa: Jayson
+Masukkan nilai mahasiswa (0-100): 90
+
+Data Mahasiswa ke-6:
+Masukkan nama mahasiswa: Bayek
+Masukkan nilai mahasiswa (0-100): 77
+
+Data Mahasiswa ke-7:
+Masukkan nama mahasiswa: Aya
+Masukkan nilai mahasiswa (0-100): 30
+
+Data Mahasiswa ke-8:
+Masukkan nama mahasiswa: Eivor
+Masukkan nilai mahasiswa (0-100): 95
+
+Data Mahasiswa ke-9:
+Masukkan nama mahasiswa: Cihuyy
+Masukkan nilai mahasiswa (0-100): 80
+
+Data Mahasiswa ke-10:
+Masukkan nama mahasiswa: Arthur
+Masukkan nilai mahasiswa (0-100): 83
+
+
+==================================================
+DATA SEMUA MAHASISWA
+==================================================
+Nama: Dwiki
+Nilai Angka: 72.0
+Nilai Huruf: B
+Status: LULUS
+------------------------------
+Nama: Basim
+Nilai Angka: 100.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+Nama: Prince
+Nilai Angka: 85.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+Nama: asep
+Nilai Angka: 60.0
+Nilai Huruf: C
+Status: LULUS
+------------------------------
+Nama: Jayson
+Nilai Angka: 90.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+Nama: Bayek
+Nilai Angka: 77.0
+Nilai Huruf: A-
+Status: LULUS
+------------------------------
+Nama: Aya
+Nilai Angka: 30.0
+Nilai Huruf: E
+Status: TIDAK LULUS
+------------------------------
+Nama: Eivor
+Nilai Angka: 95.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+Nama: Cihuyy
+Nilai Angka: 80.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+Nama: Arthur
+Nilai Angka: 83.0
+Nilai Huruf: A
+Status: LULUS
+------------------------------
+RATA-RATA NILAI SEMUA MAHASISWA: 77.20
+
+==================================================
+PERBANDINGAN ALGORITMA PENGURUTAN
+==================================================
+Menghasilkan 1000 bilangan acak...
+
+Menguji algoritma pengurutan...
+--------------------------------------------------
+Bubble Sort    : 0.1305 detik
+Selection Sort : 0.0496 detik
+Merge Sort     : 0.0029 detik
+Insertion Sort : 0.0708 detik
+Quick Sort     : 0.0019 detik
+
+==================================================
+RANKING ALGORITMA (TERCEPAT KE TERLAMBAT)
+==================================================
+1. Quick Sort     : 0.0019 detik
+2. Merge Sort     : 0.0029 detik
+3. Selection Sort : 0.0496 detik
+4. Insertion Sort : 0.0708 detik
+5. Bubble Sort    : 0.1305 detik
+
+==================================================
+PROGRAM SELESAI
+==================================================
